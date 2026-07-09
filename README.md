@@ -35,12 +35,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/9467df74-300c-4e58-a5ff-c93adb513a82" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/8460f63e-8bc9-4d6f-b4b9-01608b6145c1" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once logged into osTicket switch to Admin Panel then navigate to Agents -> Roles. Click New Role and name it "Supreme Admin" then in the permissions tab check every box for permissions/access. Create the Role. This has full system control and configuration capabilities.
 </p>
 <br />
+
+<h2></h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
