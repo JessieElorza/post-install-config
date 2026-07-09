@@ -14,22 +14,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Azure storage
+- Remote Desktop Connection
 - Internet Information Services (IIS)
 - osTicket
-- 
+- Windows 11
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (25H2)
+- Windows 11</b> (25H2) (Virtual Machine)
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Creating Users and Agents. Setting up roles and permissions for the created users and agents
+- Configure ticket visibility and help desk functionality.
+- Configuring SLAs to define response times for tickets.
+- Adding different types of help topics to enhance efficency and user experience.
+- Enhance user experience by organizing help topics.
 
 <h2>Configuration Steps</h2>
 
