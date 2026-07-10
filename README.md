@@ -39,7 +39,7 @@ Once logged into osTicket switch to Admin Panel then navigate to Agents -> Roles
 <img src="https://github.com/user-attachments/assets/9467df74-300c-4e58-a5ff-c93adb513a82" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Name the new role "Supreme Admin" then in the permissions tab check every box for permissions/access. Create the Role. This allows full system control and configuration capabilities for an account with complete control over the help desk system.
+Name the new role "Supreme Admin" then in the permissions tab check every box for permissions/access. Create the Role. This allows full system control and configuration capabilities for an account with complete control over the help desk system. The account Supreme Admin acts as the primary system administrator that manages the system.
 </p>
 <br />
 
