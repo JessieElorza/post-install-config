@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-Once logged into osTicket switch to Admin Panel then navigate to Agents -> Roles. Click Add New Role.
+Once logged into osTicket switch to the Admin Panel then navigate to Agents -> Roles. Click Add New Role.
 </p>
 <p>
 <img src="https://github.com/user-attachments/assets/c0a7decc-3359-4c2c-80bc-f9b557bbb75d" height="60%" width="60%" alt="Disk Sanitization Steps"/>
