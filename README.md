@@ -107,7 +107,7 @@ Gave Jane the "SysAdmin" Department with the Role of "Supreme Admin" so that age
 <h2></h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/d9b1fc8b-daad-41d1-8be0-768799b19bb1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
