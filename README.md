@@ -80,9 +80,17 @@ In the Admin Panel navigate to Settings -> Users. Verify that the "Registration 
 </p>
 <p>
 In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called "Jane Doe" with the following credentials (Note: A fake email was used):
+</p>
+<p>
   -Name: Jane Doe
+</p>
+<p>
   -Email: Jane@lognpacific.com
+</p>
+<p>
   -Username: jane
+</p>
+<p>
   -Password: Password1
 </p>
 <br />
