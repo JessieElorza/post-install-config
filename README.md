@@ -93,6 +93,15 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
 <p>
   -Password: Password1
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/6b76fc02-12e3-4e83-9a5b-04c632fb570b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/a2d4a07c-b688-43bd-b7da-ab3cad6f893e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Gave Jane the "SysAdmin" Department with the Role of "Supreme Admin" so that agent can have access to everything. Added Jane to the "Online Banking" Team as well.
+</p>
 <br />
 
 <h2></h2>
@@ -104,3 +113,6 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
 
 </p>
 <br />
+
+<h2></h2>
+
