@@ -74,3 +74,25 @@ In the Admin Panel navigate to Settings -> Users. Verify that the "Registration 
 <br />
 
 <h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/7598a85c-7477-4e42-aac2-3232078817fd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called "Jane Doe" with the following credentials (Note: A fake email was used):
+  -Name: Jane Doe
+  -Email: Jane@lognpacific.com
+  -Username: jane
+  -Password: Password1
+</p>
+<br />
+
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/d9b1fc8b-daad-41d1-8be0-768799b19bb1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
