@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-Once logged into osTicket switch to Admin Panel then navigate to Agents -> Roles. Click Add New Role
+Once logged into osTicket switch to Admin Panel then navigate to Agents -> Roles. Click Add New Role.
 </p>
 <p>
 <img src="https://github.com/user-attachments/assets/c0a7decc-3359-4c2c-80bc-f9b557bbb75d" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -39,7 +39,7 @@ Once logged into osTicket switch to Admin Panel then navigate to Agents -> Roles
 <img src="https://github.com/user-attachments/assets/9467df74-300c-4e58-a5ff-c93adb513a82" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Name the new role "Supreme Admin" then in the permissions tab check every box for permissions/access. Create the Role. This has full system control and configuration capabilities.
+Name the new role "Supreme Admin" then in the permissions tab check every box for permissions/access. Create the Role. This allows full system control and configuration capabilities for an account with complete control over the help desk system.
 </p>
 <br />
 
