@@ -59,6 +59,18 @@ In the Admin Panel navigate to Agents -> Departments -> Add New Department. Swit
 <img src="https://github.com/user-attachments/assets/d02eeafd-eee8-4bb1-b61d-3a347d424d42" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+In the Admin Panel navigate to Agents -> Teams -> Add New Team. Named it "Online Banking" then create the team. Teams are to support ticket escalation and coordinate issues.
 </p>
 <br />
+
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/8983a9a5-d7ed-40df-b4d1-407b7ca81924" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Admin Panel navigate to Settings -> Users. Verify that the "Registration Required:" setting is unchecked. This makes it so people aren't required to register and login to create a ticket.
+</p>
+<br />
+
+<h2></h2>
