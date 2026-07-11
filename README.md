@@ -117,7 +117,7 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
 
 -Name: John Doe
 
--Email: john@lognpacific.com
+ -Email: john@lognpacific.com
 
 -Username: john
 
