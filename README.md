@@ -135,3 +135,18 @@ Agent roles and departmental access to align with the defined ticket visibility 
 
 <h2></h2>
 
+<p>
+<img src="https://github.com/user-attachments/assets/134a8e73-594d-4ac5-b489-8ceac7b472a9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Accessed the Agent Panel.
+
+Navigated to Users → Add New.
+
+Created end-user accounts to simulate customer interaction within the help desk system:
+
+Karen
+Ken
+Configured user profiles to enable ticket submission and support request tracking through the osTicket portal.
+</p>
+<br />
