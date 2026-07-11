@@ -100,7 +100,7 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
 <img src="https://github.com/user-attachments/assets/a2d4a07c-b688-43bd-b7da-ab3cad6f893e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Give Jane the "SysAdmin" Department with the Role of "Supreme Admin" so that agent can have complete access and control over the ticketing system. Add Jane to the "Online Banking" Team as well so the agent can be a part of the ongoing overseeing of issues in this department. This will allow her to see all tickets that come through 
+Give Jane the "SysAdmin" Department with the Role of "Supreme Admin" so that agent can have complete access and control over the ticketing system. Add Jane to the "Online Banking" Team as well so the agent can be a part of the ongoing overseeing of issues in this department. This will allow her to see all tickets that come through the "Online Banking" Department.
 </p>
 <br />
 
@@ -127,7 +127,7 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
   -Password: Password1
 </p>
 <p>
-Gave John the "Support" Department with the Role of "View Only" and created the agent.
+Gave John the "Support" Department with the Role of "View Only" with limited controls. Create the agent.
 
 Agent roles and departmental access to align with the defined ticket visibility and workflow structure.
 </p>
@@ -171,7 +171,7 @@ In the Admin Panel navigate to Manage -> SLA -> Add New SLA Plan. Created 3 diff
  - Sev-C (8 hours, Business Hours)
 </p>
 <p>
-  Service Level Agreements (SLAs) help define a severity of the problem and the resolution time expected based on the ticket severity.
+Service Level Agreements (SLAs) help define a severity of the problem and the resolution time expected based on the ticket severity. Ensures resources are allocated effectively and Critical issues (such as system outages) receive faster attention than lower-priority requests.
 </p>
 <br />
 
@@ -201,11 +201,11 @@ In the Admin Panel navigate to Manage -> Help Topics -> Add New Help Topic. Adde
 - Other (General Inquiry)
 </p>
 <p>
-Help Topics help align with SLA policies and enabling structured prioitization for tickets.
+Help Topics help align with SLA policies and enable structured prioitization for tickets. They categorize support requests and groups tickets by category, such as Technical Support, Billing, Sales, or General Inquiry and route tickets efficiently.
 </p>
 <br />
 
 <h2></h2>
 
 ### End Of Project
-This concludes the post-installation configuration of the osTicket environment. Through the implementation of role-based access control, departmental structuring, SLA policies, and categorized help topics, the system was configured to support efficient ticket management and a structured workflow for both support agents and end users and demonstrates knowledge and literacy in osTicket's basic functioning workflow systems.
+This concludes the post-installation configuration of the osTicket environment. Through the implementation of role-based access control, departmental structuring, SLA policies, and categorized help topics, the system was configured to support efficient ticket management and a structured workflow for both support agents and end users and demonstrates knowledge and literacy in osTicket's basic functioning workflow systems in a workplace.
