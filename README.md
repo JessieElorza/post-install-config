@@ -146,7 +146,6 @@ Navigated to Users → Add New.
 Created end-user accounts to simulate customer interaction within the help desk system:
 
 Karen
-Ken
 Configured user profiles to enable ticket submission and support request tracking through the osTicket portal.
 </p>
 <br />
