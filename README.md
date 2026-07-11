@@ -177,3 +177,36 @@ In the Admin Panel navigate to Manage -> SLA -> Add New SLA Plan. Created 3 diff
 <br />
 
 <h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/f465b79f-d623-4d97-9fec-8df65b870fdb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/6e9b859c-2075-4390-8a58-0d7aa3f421d3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Admin Panel navigate to Manage -> Help Topics -> Add New Help Topic. Added the following Topics:
+<p>
+- Business Critical Outage (Report a problem)
+</p>
+<p>
+- Persosnal Computer Issues (Report a problem)
+</p>
+<p>
+- Equipment Request (General Inquiry)
+</p>
+<p>
+- Password Reset (Report a problem)
+</p>
+<p>
+- Other (General Inquiry)
+</p>
+<p>
+Help Topics help align with SLA policies and enabling structured prioitization for tickets.
+</p>
+<br />
+
+<h2></h2>
+
+### End Of Project
+This concludes the post-installation configuration of the osTicket environment. Through the implementation of role-based access control, departmental structuring, SLA policies, and categorized help topics, the system was configured to support efficient ticket management and a structured workflow for both support agents and end users and demonstrates knowledge and literacy in osTickets basic functioning workflow systems.
