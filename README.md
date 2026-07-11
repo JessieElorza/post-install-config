@@ -150,3 +150,23 @@ Ken
 Configured user profiles to enable ticket submission and support request tracking through the osTicket portal.
 </p>
 <br />
+
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/00bbd56b-1114-4bc0-81b5-ab3edec5042a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/f6eec205-08e9-403e-b675-304f658f7f5f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Admin Panel navigate to Manage -> SLA -> Add New SLA Plan. Created 3 different plans with the following:
+  - Sev-A (1 hour, 24/7)
+  - Sev-B (4 hours, 24/7)
+  - Sev-C (8 hours, Business Hours)
+
+  Service Level Agreements (SLAs) help define a severity of the problem and the resolution time expected based on the ticket severity.
+</p>
+<br />
+
+<h2></h2>
