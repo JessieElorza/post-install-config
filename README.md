@@ -115,7 +115,7 @@ Gave Jane the "SysAdmin" Department with the Role of "Supreme Admin" so that age
 <p>
 In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called "Jane Doe" with the following credentials (Note: A fake email was used):
 <p>
-  -Name: Jphn Doe
+  -Name: John Doe
 </p>
 <p>
  -Email: john@lognpacific.com
