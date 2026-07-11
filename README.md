@@ -69,7 +69,7 @@ In the Admin Panel navigate to Agents -> Teams -> Add New Team. Name it "Online 
 <img src="https://github.com/user-attachments/assets/d9b1fc8b-daad-41d1-8be0-768799b19bb1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the Admin Panel navigate to Settings -> Users. Verify that the "Registration Required:" setting is unchecked. This makes it so people aren't required to register and login to create a ticket.
+In the Admin Panel navigate to Settings -> Users. Verify that the "Registration Required:" setting is unchecked. This makes it so people aren't required to register and login to create a ticket. This allows ease of access and easy workflow for ticket creation for the sake of the client.
 </p>
 <br />
 
