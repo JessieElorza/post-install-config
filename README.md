@@ -85,7 +85,7 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
   -Name: Jane Doe
 </p>
 <p>
-  -Email: jane@lognpacific.com
+ -Email: jane@lognpacific.com
 </p>
 <p>
   -Username: jane
@@ -114,14 +114,17 @@ Gave Jane the "SysAdmin" Department with the Role of "Supreme Admin" so that age
 </p>
 <p>
 In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called "Jane Doe" with the following credentials (Note: A fake email was used):
-
--Name: John Doe
-
+<p>
+  -Name: Jphn Doe
+</p>
+<p>
  -Email: john@lognpacific.com
-
--Username: john
-
--Password: Password1
+</p>
+<p>
+  -Username: john
+</p>
+<p>
+  -Password: Password1
 </p>
 <br />
 
