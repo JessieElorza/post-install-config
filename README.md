@@ -100,7 +100,7 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
 <img src="https://github.com/user-attachments/assets/a2d4a07c-b688-43bd-b7da-ab3cad6f893e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Gave Jane the "SysAdmin" Department with the Role of "Supreme Admin" so that agent can have access to everything. Added Jane to the "Online Banking" Team as well.
+Give Jane the "SysAdmin" Department with the Role of "Supreme Admin" so that agent can have complete access and control over the ticketing system. Add Jane to the "Online Banking" Team as well so she can be a part of the ongoing overseeing of issues in this department.
 </p>
 <br />
 
