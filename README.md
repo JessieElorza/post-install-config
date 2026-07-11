@@ -85,7 +85,7 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
   -Name: Jane Doe
 </p>
 <p>
-  -Email: Jane@lognpacific.com
+  -Email: jane@lognpacific.com
 </p>
 <p>
   -Username: jane
@@ -113,7 +113,15 @@ Gave Jane the "SysAdmin" Department with the Role of "Supreme Admin" so that age
 <img src="https://github.com/user-attachments/assets/83768cb6-4585-4db3-bced-e32197801f90" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called "Jane Doe" with the following credentials (Note: A fake email was used):
 
+-Name: John Doe
+
+-Email: john@lognpacific.com
+
+-Username: john
+
+-Password: Password1
 </p>
 <br />
 
