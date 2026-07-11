@@ -161,10 +161,17 @@ Configured user profiles to enable ticket submission and support request trackin
 </p>
 <p>
 In the Admin Panel navigate to Manage -> SLA -> Add New SLA Plan. Created 3 different plans with the following:
-  - Sev-A (1 hour, 24/7)
-  - Sev-B (4 hours, 24/7)
-  - Sev-C (8 hours, Business Hours)
-
+</p>
+<p>
+ - Sev-A (1 hour, 24/7)
+</p>
+<p>
+- Sev-B (4 hours, 24/7)
+</p>
+<p>
+ - Sev-C (8 hours, Business Hours)
+</p>
+<p>
   Service Level Agreements (SLAs) help define a severity of the problem and the resolution time expected based on the ticket severity.
 </p>
 <br />
