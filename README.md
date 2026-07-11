@@ -59,7 +59,7 @@ In the Admin Panel navigate to Agents -> Departments -> Add New Department. Swit
 <img src="https://github.com/user-attachments/assets/d02eeafd-eee8-4bb1-b61d-3a347d424d42" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the Admin Panel navigate to Agents -> Teams -> Add New Team. Named it "Online Banking" then create the team. Teams are to support ticket escalation and coordinate issues.
+In the Admin Panel navigate to Agents -> Teams -> Add New Team. Name it "Online Banking" then create the team. Teams are to support ticket escalation and coordinate issues to specific departments in a buisness.
 </p>
 <br />
 
