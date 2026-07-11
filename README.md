@@ -126,6 +126,11 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
 <p>
   -Password: Password1
 </p>
+<p>
+Gave John the "Support" Department with the Role of "View Only" and created the agent.
+
+Agent roles and departmental access to align with the defined ticket visibility and workflow structure.
+</p>
 <br />
 
 <h2></h2>
