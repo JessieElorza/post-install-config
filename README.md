@@ -17,6 +17,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
+- Windows 11 (Desktop)
 - Windows 11</b> (25H2) (Virtual Machine)
 
 <h2>Post-Install Configuration Objectives</h2>
