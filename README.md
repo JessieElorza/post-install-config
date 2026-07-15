@@ -10,6 +10,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Azure storage
+- Windows server
 - Remote Desktop Connection
 - Internet Information Services (IIS)
 - osTicket
