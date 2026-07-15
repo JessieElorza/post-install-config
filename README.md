@@ -9,8 +9,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Azure storage
-- Windows server
+- Azure Storage
+- Windows Server
 - Remote Desktop Connection
 - Internet Information Services (IIS)
 - osTicket
