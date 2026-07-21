@@ -208,5 +208,5 @@ Help Topics help align with SLA policies and enable structured prioitization for
 
 <h2></h2>
 
-### End Of Project
+### End Of Demonstration
 This concludes the post-installation configuration of the osTicket environment. Through the implementation of role-based access control, departmental structuring, SLA policies, and categorized help topics, the system was configured to support efficient ticket management and a structured workflow for both support agents and end users and demonstrates knowledge and literacy in osTicket's basic functioning workflow systems in a workplace.
